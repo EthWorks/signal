@@ -1,1 +1,1 @@
-web: DEBUG=* ./bin/signal.js
+web: DEBUG=* ./bin/signal.js -p $PORT
